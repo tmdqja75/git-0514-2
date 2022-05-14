@@ -3,5 +3,5 @@ def hi(name):
 
 if __name__ == "__main__":
     print('conflict in main?')
-    hi('hello')
+    hi('hello!!')
 
